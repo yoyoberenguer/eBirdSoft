@@ -9,7 +9,8 @@ eBirdsoft is a project coded in Python (version 2.7, with Tkinter) providing a r
 
 It is designed to work onto various platforms such as Linux RedHat for backward compatibility with the BOCS system but will work on most platforms including Mac OS and windows (tested proficiently on Linux and windows).
 
-eBirdSoft is using multithreaded/multiprocessing applications to utilise the full potential of Konsberg Seatex ECLT commands. It will perform background tasks and regroup results in a concise manner.
+eBirdSoft is using multithreaded/multiprocessing applications to utilise the full potential of Konsberg Seatex ECLT commands. 
+It will perform background tasks and regroup results in a concise manner.
 The results are displayed into tables to simplify the way the equipment functions are represented
 
 This application comes with powerful graphic tools to analyse equipment behaviours but also to store data in a local SQLITE database. Plots and graph can be generated to more easily understand the overall mechanisms such as current charging, voltage variations, eBird body current leakage etc. 
