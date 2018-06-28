@@ -1,6 +1,8 @@
 # eBirdSoft
 Testing software for eBird® lateral, vertical and roll control of seismic cables
 
+![Alt text](https://github.com/yoyoberenguer/eBirdSoft/blob/master/ebird-1020x590.jpg)
+
 What is eBirdSoft?
 
 eBirdsoft is a project coded in Python (version 2.7, with Tkinter) providing a real-time GUI interface in order to test seismic equipment such as eBird body and wings technology.
