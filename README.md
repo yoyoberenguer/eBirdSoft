@@ -21,5 +21,9 @@ It provides a testing platform with a very concise and intuitive way to monitor 
 test eBird equipment via graphical tools
 It is ideal for intermittent issues as eBirdSoft is capable of continuously monitoring eBird body functions.
 
+![alt_text](https://github.com/yoyoberenguer/eBirdSoft/blob/master/snapshot/snapshot10.png)
+
+![alt_text](https://github.com/yoyoberenguer/eBirdSoft/blob/master/snapshot/snapshot9.png)
+
 eBird Technology
 https://www.km.kongsberg.com/ks/web/nokbg0240.nsf/AllWeb/EB747DB0D24FFF94C125765600465A3B?OpenDocument
