@@ -27,7 +27,7 @@ test eBird equipment via graphical tools
 It is ideal for intermittent issues as eBirdSoft is capable of continuously monitoring eBird 
 body functions.
 
-### Snapshots
+#### Snapshots
 
 ![alt_text](https://github.com/yoyoberenguer/eBirdSoft/blob/master/snapshot/snapshot10.png)
 
