@@ -1,10 +1,10 @@
 # eBirdSoft
 
-**Testing software for eBird® lateral, vertical and roll control of seismic cables**
+## **Testing software for eBird® lateral, vertical and roll control of seismic cables**
 
 ![Alt text](https://github.com/yoyoberenguer/eBirdSoft/blob/master/ebird-1020x590.jpg)
 
-## What is eBirdSoft?
+### What is eBirdSoft?
 
 eBirdsoft is a project coded in **Python** (version 2.7, with Tkinter) providing a **real-time GUI interface** 
 in order to test seismic equipment such as **eBird body and wings technology**.
@@ -20,25 +20,25 @@ This application comes with powerful graphic tools to analyse equipment behaviou
 local SQLITE database. Plots and graph can be generated to more easily understand the overall mechanisms such as 
 current charging, voltage variations, eBird body current leakage etc. 
 
-## What can eBirdSoft provide in addition to BOCS ?:
+### What can eBirdSoft provide in addition to BOCS ?:
 
 It provides a testing platform with a very concise and intuitive way to monitor and
 test eBird equipment via graphical tools
 It is ideal for intermittent issues as eBirdSoft is capable of continuously monitoring eBird 
 body functions.
 
-## Snapshots
+### Snapshots
 
 ![alt_text](https://github.com/yoyoberenguer/eBirdSoft/blob/master/snapshot/snapshot10.png)
 
 ![alt_text](https://github.com/yoyoberenguer/eBirdSoft/blob/master/snapshot/snapshot9.png)
 
 
-## PDF Reporting 
+### PDF Reporting 
 
 ![alt_text](https://github.com/yoyoberenguer/eBirdSoft/blob/master/snapshot/Reports2.png)
 
 ![alt_text](https://github.com/yoyoberenguer/eBirdSoft/blob/master/snapshot/Reports1.png)
 
-## eBird Technology
+### eBird Technology
 https://www.km.kongsberg.com/ks/web/nokbg0240.nsf/AllWeb/EB747DB0D24FFF94C125765600465A3B?OpenDocument
